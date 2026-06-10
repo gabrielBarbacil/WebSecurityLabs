@@ -1,4 +1,4 @@
-# Lab 02 — File path traversal, traversal sequences blocked with absolute path bypass
+# Lab 02 — Sequences blocked with absolute path bypass
 
 **Difficulty:** 🟡 Practitioner  
 **Technique:** Path Traversal — absolute path bypass  
