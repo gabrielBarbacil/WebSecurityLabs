@@ -1,4 +1,4 @@
-# Lab 01 — File path traversal, simple case
+# Lab 01 — Simple case
 
 **Difficulty:** 🟢 Apprentice  
 **Technique:** Path Traversal  
