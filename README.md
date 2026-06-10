@@ -8,7 +8,7 @@ Personal writeups and scripts for [PortSwigger Web Security Academy](https://por
 
 | Category | Completed | Status |
 |---|---|---|
-| [SQL Injection](./sql-injection/writeups) | 16 / 18 | 🟡 In progress |
+| [SQL Injection](./SQL-Injection/WriteUps) | 16 / 18 | 🟡 In progress |
 
 ---
 
